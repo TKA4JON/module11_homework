@@ -1,7 +1,7 @@
 {
     "name": "module11_homework",
     "main": "index.js",
-    "repository": "https://github.com/Vintorezy/module11_homework.git",
+    "repository": "https://github.com/TKA4JON/module11_homework.git",
     "scripts": {
       "test": "jest"
     },
